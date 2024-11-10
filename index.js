@@ -1,6 +1,6 @@
-/* i hate typescript */
-import { Client, GatewayIntentBits } from 'discord.js';
-const token = "TOKEN_INSERT"
+/* 역시 난 타입스크립트가 싫어 */
+const { Client, GatewayIntentBits } = require('discord.js');
+const token = "TOKEN";
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
