@@ -1,0 +1,24 @@
+{
+  "fish": [
+    {
+      "type": "trash",
+      "name": "이프의 서버"
+    },
+    {
+      "type": "common",
+      "name": "연어"
+    },
+    {
+      "type": "uncommon",
+      "name": "송어"
+    },
+    {
+      "type": "epic",
+      "name": "희귀한 물고기"
+    },
+    {
+      "type": "legendery",
+      "name": "키뮤님의 사인"
+    }
+  ]
+}
